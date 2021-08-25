@@ -4,7 +4,7 @@
 
 ## 🖥️ Demo
 
-- Demo: [WGD.ir](https://DoList.ir/)
+- Demo: [WGD.ir](https://WGD.ir/)
 - ScreenShots: [ScreenShots](https://github.com/alighasemzadeh/wgd/tree/main/screenshots)
 
 ## 🔌 Requirements

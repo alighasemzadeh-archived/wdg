@@ -1,6 +1,6 @@
 ✔️ WGD
 ======================
-> [WGD](https://WGD.ir/) - Easy way to manage To Do List.
+> [WGD](https://WGD.ir/)  - Web Generation Dictionary.
 
 ## 🖥️ Demo
 
@@ -26,7 +26,7 @@
 
 ## 🧾 Installation
 
-1. `git clone https://github.com/alighasemzadeh/dolist MyDoList`
+1. `git clone https://github.com/alighasemzadeh/wgd WGD`
 2. `cd MyDoList`
 3. Install dependencies:
 

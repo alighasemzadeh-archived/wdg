@@ -130,3 +130,16 @@
         </div>
     </body>
 </html>
+
+@php
+    $text = "Hi ! Welcome To Blog.iranwebsv.net";
+    $source = 'en';
+    $target = 'fa';
+
+    $translation = \App\Utils\GoogleTranslate::translate($source, $target, $text);
+
+    echo '<pre>';
+    print_r($translation);
+    echo '</pre>';
+
+@endphp
